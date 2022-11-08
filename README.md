@@ -28,6 +28,7 @@ https://relay.mistli.net/inbox
 https://relay.retronerd.at/actor
 https://relay.social.tigwali.fr/inbox
 https://relay.toot.yukimochi.jp/inbox
+https://relay.flm9.me/actor
 ```
 
 ## ❔ relays that maybe? work
